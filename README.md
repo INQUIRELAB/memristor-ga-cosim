@@ -56,6 +56,15 @@ Selected Results:
 Optimized Memristor A
 https://github.com/user-attachments/assets/97e32759-9d23-44e4-84df-f59b602a4f57
 
+Optimized Memristor B
+https://github.com/user-attachments/assets/2076fcfd-c97b-48fb-933e-2d84af1eaf2f
+
+Optimized Memristor C
+https://github.com/user-attachments/assets/660f25ac-27ab-41e8-8930-9262a849ecda
+
+Reference Memristor
+https://github.com/user-attachments/assets/6b68a139-bd5b-4b63-9a8b-e431c825b15b
+
 
 ## 🚀 Quick Start (Typical Order)
 ```matlab
