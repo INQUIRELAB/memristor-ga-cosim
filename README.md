@@ -52,6 +52,11 @@ This repository provides a physics-informed, multi-objective simulation–optimi
 4. **Execute `Final_Run.m`** to run the GA for the specified number of generations.
 5. Inspect saved outputs for the final Pareto-optimal candidates and their normalized objective values.
 
+Selected Results:
+Optimized Memristor A
+https://github.com/user-attachments/assets/97e32759-9d23-44e4-84df-f59b602a4f57
+
+
 ## 🚀 Quick Start (Typical Order)
 ```matlab
 run('Dataset.initial.m');
