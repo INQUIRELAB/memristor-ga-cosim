@@ -55,16 +55,19 @@ This repository provides a physics-informed, multi-objective simulation–optimi
 Selected Results:
 Optimized Memristor A
 https://github.com/user-attachments/assets/97e32759-9d23-44e4-84df-f59b602a4f57
+![COMSOL–MATLAB GA co-optimization Point_A_three_panel](Point_A_three_panel.gif)
 
 Optimized Memristor B
 https://github.com/user-attachments/assets/2076fcfd-c97b-48fb-933e-2d84af1eaf2f
+![COMSOL–MATLAB GA co-optimization Point_B_three_panel](Point_B_three_panel.gif)
 
 Optimized Memristor C
 https://github.com/user-attachments/assets/660f25ac-27ab-41e8-8930-9262a849ecda
+![COMSOL–MATLAB GA co-optimization Point_C_three_panel](Point_C_three_panel.gif)
 
 Reference Memristor
 https://github.com/user-attachments/assets/6b68a139-bd5b-4b63-9a8b-e431c825b15b
-
+![COMSOL–MATLAB GA co-optimization Ref_three_panel](Ref_three_panel.gif)
 
 ## 🚀 Quick Start (Typical Order)
 ```matlab
